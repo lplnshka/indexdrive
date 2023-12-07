@@ -1,0 +1,191 @@
+body {
+	margin: 0px;
+	background: #272727;
+	color: #fbfcff;
+	font-family: "Gill Sans", sans-serif;
+}
+.wrapper {
+	max-width: 1080px;
+	margin: 0 auto;
+}
+.b-top {
+	background: #272727;
+}
+#top {
+	height: 15%; 
+	background: #272727;
+}
+#num {
+	float: right;
+	padding-top: 80px;
+}
+#num h1 {
+	margin: 0px;
+	font-size: 44px;
+
+}
+
+img {
+	margin-left: 10px;
+	margin-top: 40px;
+	height: 90px;
+}
+
+.b-menu {
+	background: #272727;
+}
+#menu {
+	height: 10%; 
+	background: #272727;
+	text-align: center;
+	
+}
+#menu p {
+	padding-top: 10px;	
+}
+
+#menu1 {
+	height: 75%; 
+	width: 177px;
+	background: #b7b7b7;
+	margin-right: 3px;
+	margin-top: 6px;
+	float: left;
+}
+#menu2 {
+	height: 75%; 
+	width: 177px;
+	background: #b7b7b7;
+	margin-right: 3px;
+	margin-top: 6px;
+	float: left;
+}
+#menu3 {
+	height: 75%; 
+	width: 177px;
+	background: #b7b7b7;
+	margin-right: 3px;
+	margin-top: 6px;
+	float: left;
+}
+#menu4 {
+	height: 75%; 
+	width: 177px;
+	background: #b7b7b7;
+	margin-right: 3px;
+	margin-top: 6px;
+	float: left;
+}
+#menu5 {
+	height: 75%; 
+	width: 177px;
+	background: #b7b7b7;
+	margin-right: 3px;
+	margin-top: 6px;
+	float: left;
+}
+#menu6 {
+	height: 75%; 
+	width: 177px;
+	background: #b7b7b7;
+	margin-right: 3px;
+	margin-top: 6px;
+	float: left;
+}
+
+#content {
+
+	background: #272727;
+	clear: both;
+}
+
+#image {
+	width: 75%;
+	height: 40%;
+	background: #eead56;
+	float: left; 
+	margin-bottom: 20px;
+}
+#image img {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+#banner {
+	width: 75%;
+	height: 30%;
+	background:#272727;
+	float: left; 
+	text-align: center;
+}
+#banner p {
+	margin-left: 10px;
+	margin-right: 10px;
+	font-size: 14px;
+}
+#banner1 {
+	background: #ccc341;
+	width: 48%;
+	height: 100%;
+	margin-right: 30px;
+	float: left;
+}
+#banner1 img {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+#banner2 {
+	background: #4182cc;
+	width: 48%;
+	height: 100%;
+	float: left;
+}
+ #banner2 img {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+#serv {
+	width: 23%;
+	background: #272727;
+	float: left;
+	margin-right: 20px;
+} 
+#serv1 {
+	width: 100%;
+	height: 50px;
+	background: #a82b2f;
+	margin-bottom: 10px;
+} 
+#serv1 p {
+	margin-top: 0px;
+	padding-top: 15px;
+}
+#serv2 {
+	float: left;
+	width: 100%;
+	height: 600px;
+	background: #a82b2f;
+	margin-bottom: 10px;
+} 
+#serv2 p {
+	margin-top: 0px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+#serv2 input {
+	margin-top: 10px;
+}
+#serv2 button {
+	margin-top: 10px;
+}
+#footer {
+	height: 8%;
+	background:#0a0a0a;
+	float: left; 
+	width: 100%;
+	margin-top: 30px;
+	color: #272727;
+	text-align: center;
+}
